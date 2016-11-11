@@ -4,3 +4,4 @@
 [submodule "Swift-FHIR"]
 	path = Swift-FHIR
 	url = https://github.com/smart-on-fhir/Swift-FHIR.git
+	branch = bundleFix
