@@ -4,3 +4,5 @@
 [submodule "Swift-FHIR"]
 	path = Swift-FHIR
 	url = https://github.com/uhnmdi/Swift-FHIR.git
+	branch = bundleFix
+
